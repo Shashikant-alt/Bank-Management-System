@@ -1,5 +1,7 @@
 # Bank-Management-System
 
+A banking system made for collage semester project using file handling in c++.
+
 Outputs : 
 
 ![image](https://user-images.githubusercontent.com/53302882/165473482-4d14802b-96a3-40eb-8195-2f65a845c495.png)
